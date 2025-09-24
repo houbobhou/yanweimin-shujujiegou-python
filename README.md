@@ -2,7 +2,7 @@
 严蔚敏数据结构相关的python实现代码
 
 # 如果是windows:
-1. 第一步：下载并安装bash shell
+1. 第一步：下载并安装git bash  https://git-scm.com/downloads
 2. 第二步：打开bash shell的命令行，执行命令 git clone https://github.com/houbobhou/yanweimin-shujujiegou-python.git
 
 # 注
